@@ -1,1 +1,1 @@
-# heart-attack_analysis
+# heart-attack_project
